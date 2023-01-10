@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: BetterCharacterPanel
+## Notes: Usable CharacterPanel without massive bloat of useless crap.
+## Version: 1.4.0
+## Author: Grim & Blazeton	
+
+BetterCharacterPanel.lua
